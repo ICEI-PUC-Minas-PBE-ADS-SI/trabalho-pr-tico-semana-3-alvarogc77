@@ -8,3 +8,49 @@
 body {
     background-color: rgb(255, 255, 255);
 }
+
+header {
+    padding: 40px 4%;
+}
+
+.titulonav {
+    color: #7500b8;
+}
+
+.interface {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+}
+
+header ul {
+    list-style-type: none;
+    display: flex;
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 0 60px;
+
+}
+
+header .btn-contato button {
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #7500b8;
+    border: 0;
+    border-radius: 35px;
+    cursor: pointer;
+    color: white;
+}
+
+header .btn-contato button :hover {
+    box-shadow: 0px 0px 8px #7500b8;
+}
