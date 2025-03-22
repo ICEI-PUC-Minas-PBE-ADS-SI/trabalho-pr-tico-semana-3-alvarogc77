@@ -9,7 +9,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Informações Gerais
 
 - Nome: Álvaro Gonçalves de Carvalho
-- Matricula: 1109183
+- Matricula: 879197
 - Proposta de projeto escolhida: Site de receitas (modo de preparo) de drinks.
 - Breve descrição sobre seu projeto: Em meu site o usuário encontrará os melhores drinks, juntamente a eles seus respectivos modos de preparo.
 
