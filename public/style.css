@@ -17,7 +17,7 @@ header {
     color: #7500b8;
 }
 
-.interface {
+.pesquisa {
 
     display: flex;
     align-items: center;
@@ -57,15 +57,9 @@ header .btn-contato button :hover {
 
 .bebidas {
     justify-content: space-between;
-    display: flex;
-
-}
-
-main {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
+    display: inline;
+    text-align: center;
+    padding-bottom: 30px;
 }
 
 main .img-gin img {
@@ -90,4 +84,22 @@ main .img-mojito img {
     width: 200px;
     height: auto;
     border-radius: 12px;
+}
+
+.img-gin, .img-mule, .img-pina, .img-mojito {
+    justify-content: center;
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.tsobrenos {
+    padding: 68px;
+    text-align: center;
+}
+
+.sobrenos {
+    padding: 8px;
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
 }
