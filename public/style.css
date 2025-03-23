@@ -88,12 +88,13 @@ main .img-mojito img {
 
 .img-gin, .img-mule, .img-pina, .img-mojito {
     justify-content: center;
-    max-width: 70%;
+    max-width: 40%;
     margin: 0 auto;
+    padding-bottom: 80px;
 }
 
 .tsobrenos {
-    padding: 68px;
+    padding: 250px;
     text-align: center;
 }
 
@@ -102,4 +103,12 @@ main .img-mojito img {
     display: flex;
     width: 80%;
     margin: 0 auto;
+}
+
+main .text-imagem {
+    text-align: justify;
+}
+
+footer {
+    color: black;
 }
